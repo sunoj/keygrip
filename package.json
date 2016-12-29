@@ -1,7 +1,7 @@
 {
-  "name": "keygrip",
+  "name": "keygrip2",
   "description": "Key signing and verification for rotated credentials",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "contributors": [
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Jed Schmidt <where@jed.is> (http://jedschmidt.com)",
